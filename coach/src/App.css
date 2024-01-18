@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+
+section {
+  width: 100%;
+  margin: auto;
+  height: 100vh;
+}
+
+#home {
+  background-color: lightblue;
+}
+
+#services {
+  background-color: lightgreen;
+}
